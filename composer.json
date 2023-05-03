@@ -1,5 +1,5 @@
 {
-    "name": "sufiyan/crud-generator <name>",
+    "name": "sufiyan/crud-generator",
     "description": "A laravel package to create a CRUD functionality for any module. This will create a Route, Controller, Model, Migration, and Blade files.",
     "type": "library",
     "license": "MIT",
