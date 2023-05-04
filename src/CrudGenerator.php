@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Console\Commands\Sufiyan;
+namespace Sufiyan\CrudGenerator;
 
 use Illuminate\Support\Str;
 use Illuminate\Console\Command;
